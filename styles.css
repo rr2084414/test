@@ -1,1 +1,5 @@
-git add index.html styles
+body {
+    color: LimeGreen;
+    background-color: black;
+    font-size: 48pt;
+}
